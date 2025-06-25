@@ -7,7 +7,7 @@ This project presents a comprehensive **Adidas Sales Analysis Dashboard** built 
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="images/adidas_dashboard.png" alt="Adidas Power BI Dashboard" width="700"/>
+  <img src="dashboard.png" alt="Adidas Power BI Dashboard" width="700"/>
 </p>
 
 ---
@@ -63,6 +63,4 @@ The objective of this project is to help Adidas analyze their sales performance 
 - Data Modeling and Relationship Management  
 
 ---
-
-## 📂 File Structure
 
